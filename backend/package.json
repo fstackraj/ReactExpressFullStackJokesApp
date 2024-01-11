@@ -1,0 +1,17 @@
+{
+  "name": "ExpressMongoIntermediate",
+  "version": "1.0.0",
+  "description": "learning express mongo backend",
+  "main": "index.js",
+  "type": "module",
+  "author": "rajarshicodes",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
